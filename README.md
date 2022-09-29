@@ -1,6 +1,6 @@
 # [Horizon UI PRO TypeScript](https://horizon-ui.com/chakra-pro-ts/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com/pro&text=Check%20Horizon%20UI%20PRO,%20the%20trendiest%20Premium%20admin%20template%20for%20Chakra%20UI!)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra-pro-ts.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra-pro-ts/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/horizon-ui/horizon-ui-chakra-pro-ts.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra-pro-ts/issues?q=is%3Aissue+is%3Aclosed)
 
