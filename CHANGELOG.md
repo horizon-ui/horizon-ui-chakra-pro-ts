@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.3.0] 2023-03-16
+### Bugs fixing - Fixed ‘npm install’ error”
 ## [1.2.0] 2022-11-18
 ### Chat Messages page added
 - 🟢 New page added - Chat Messages" page added - see it live here: https://horizon-ui.com/chakra-pro/#/admin/main/others/messages
