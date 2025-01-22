@@ -1,4 +1,8 @@
 # Changelog
+## [3.0.0] 2025-20-01
+
+### Upgraded to React 19 ⚡️
+ 
 ## [2.2.1] 2024-04-23
 
 ### Fixed startup error. 
